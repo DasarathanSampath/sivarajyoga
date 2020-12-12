@@ -1,0 +1,145 @@
+{
+    "list":{
+      "logo": "/logo.png",
+        "serviceWorker": {
+        "updatePopup": {
+          "message": "New content is available.",
+          "buttonText": "Refresh"
+        }
+      },
+      "algolia": {},
+      "repo": "",
+      "editLinks": false,
+      "docsDir": "",
+      "editLinkText": "",
+      "lastUpdated": false,
+      "location": "Kanchipuram",
+      "nav": [
+        {
+          "text": "Kundalini",
+          "link": "/kundalini-meditation/"
+        },
+        {
+          "text": "Naturopathy",
+          "link": "/naturopathy/"
+        },
+        {
+          "text": "Hatha Yoga",
+          "link": "/hatha-yoga/"
+        },
+        {
+          "text": "Pranayamam",
+          "link": "/pranayamam/"
+        },
+        {
+          "text": "Kriyas",
+          "link": "/kriyas/"
+        },
+        {
+          "text": "Mudras & Bandhas",
+          "link": "/mudras-bandhas/"
+        }
+      ],
+      "sidebar": {        
+        "/kundalini-meditation/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              ""              
+            ]
+          }
+        ],
+        "/naturopathy/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              ""              
+            ]
+          }
+        ],
+        "/hatha-yoga/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              "",
+              "yoga-poses"              
+            ]
+          }
+        ],
+        "/kriyas/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              "",
+              "agnisar-dhouti",
+              "jalneti",
+              "kapalbhati",
+              "nauli",
+              "trataka",
+              "vaman-dhouti"
+            ]
+          }
+        ],
+        "/mudras-bandhas/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              "",
+              "aakaash-mudra",
+              "gyan-mudra",
+              "jalandhar-bandha",
+              "mulbandha",
+              "prithvi-shaamak",
+              "uddiyan-bandha",
+              "vaayu-shaamak"
+            ]
+          }
+        ],
+        "/pranayamam/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              "",
+              "bharamari",
+              "nadi-shodhan",
+              "sheetali"
+            ]
+          }
+        ],
+        "/": [
+          {
+            "title": "Navigation",
+            "collapsable": false,
+            "children": [
+              ""
+            ]
+          }
+        ]
+      },
+      "foot": [
+        {
+          "text": "Home",
+          "link": "/"
+        },
+        {
+          "text": "About",
+          "link": "/about/"
+        },
+        {
+          "text": "Contact",
+          "link": "/contact/"
+        },
+        {
+          "text": "Privacy",
+          "link": "/privacy/"
+        }
+    ],
+    "footSlohan": "Copyright © 2020 Siva Raja Yoga"
+  }
+}

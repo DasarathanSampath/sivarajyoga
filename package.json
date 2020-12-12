@@ -1,0 +1,32 @@
+{
+  "name": "sivarajyoga",
+  "version": "0.0.1",
+  "description": "Sri Ramakrishna Yogashramam - Yoga &amp; Naturopathy",
+  "main": "index.js",
+  "authors": {
+    "name": "Dasarathan",
+    "email": "dasarathan.sampath@gmail.com"
+  },
+  "repository": "sivarajyoga/sivarajyoga",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.7.1",
+    "@vuepress/plugin-nprogress": "^1.7.1",
+    "autoprefixer": "^9.8.6",
+    "emailjs-com": "^2.6.4",
+    "firebase": "^8.1.2",
+    "firebase-tools": "^8.18.0",
+    "vue-carousel": "^0.18.0",
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-feed": "^0.1.9",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}

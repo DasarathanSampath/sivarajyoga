@@ -1,0 +1,45 @@
+---
+date: 12 Dec 2020
+id: 'kapalbhati'
+title: Kapalbhati
+desc: Kapalbhati - kriya yoga
+---
+
+# {{ $frontmatter.title }}
+<i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
+
+<div class="md-images">
+
+![](/img/kriyas/img1.jpg)
+
+</div>
+
+## Introduction
+
+The process of kapalbhati is related to the breathing process, however it is not a type of pranayam. But, certain sadhakas think in this manner and study kapalbhati under the impression that they are studying a type of pranayam. However, process of cleaning the wind pipe is one of the shuddhikriyas. The word kapalbhati is made up of two words, kapal meaning skull ( here skull includes all the organs under the skull too ) and bhati means shining, illuminating. Due to the process, the organs under the skull mainly the brain and the small brain are influenced in a good manner. Hence the word is used in that way.
+
+ 
+
+## Pre-position
+
+Since this process is related to breathing, it should be performed sitting in Padmasan. The muscles of the stomach should be moved freely in this process. This freeness cannot be achieved while sitting or sleeping, hence the process can be performed well while sitting in a dhyana pose. Padmasan is a very suitable asana for dhyana pose, hence this process should be performed while sitting in Padmasan. It may be performed by sitting in Swastikasan or Vajrasan, but as compared to Padmasan, these asanas are not so important. The pose of the body during Padmasan is essential here.
+
+We have seen in the beginning that Kapalbhati is not a type of pranayam. It is process limited to Pooraka and Rechaka performed in a typical manner. Kumbhaka is not included here. Also, more importance is given to the Rechaka than Pooraka. In fact, Rechaka performed in a particular manner is the main process of Kapalbhati. Pooraka is just for the namesake.
+
+Rechaka is more important in the process. While performing Rechaka, it is to be performed by way of effecting a push with the help of stomach muscles. The diaphragm and the muscles of the abdomen are to be moved violently and the air should be exhaled with the help of that movement. Hence, the rechaka is not prolonged and more air also is not exhaled. In day to day life, we exhale approximately 500 to 600 CC air per exhalation. During the Kapalbhati process, approximately 40 to 50 cc more air i.e. 550 to 650 cc air is expelled. This shows that exhaling more air is not expected during the process. When the rechaka is performed after such a push, when the muscles of the abdomen and the diaphragm are loosened, then automatically the air is inhaled. Only this minimal Pooraka is expected in the process. However, one Pooraka and one Rechaka do not constitute a cycle of Kapalbhati.
+
+A cycle or rotation of Kapalbhati should be performed as follows :
+
+Keep breathing gradually while sitting in Padmasana.
+
+Inhale and start performing Kapalbhati as stated before. That means a strong Rechaka, natural Pooraka and again strong Rechaka and natural pooraka.
+
+Keep on doing this rotation swiftly in rhythmic manner.
+
+Perform as many cycles as possible and then keep breathing gradually. All these processes are included under one cycle of Kapalbhati.
+
+## Duration
+
+In a cycle of Kapalbhati, swift Rechakas followed by Poorakas are expected. Both the actions are so swift that the duration cannot be definitely determined. However, after studying the process minutely, it can be said that Pooraka and Rechaka together about half second is the duration. (This period is further reduced by practice) Approximately three fourth time is required for Rechaka and one fourth for Pooraka. Of course, this is just to give an idea. It is not perfect and may not be strictly adhered to. It is not possible to adhere to it strictly. None of the ancient Sanskrit yoga describes how many cycles of Rechaka and Pooraka should be performed in a cycle of Kapalbhati. When the process can be performed neatly, the Pooraka and Rechaka should be performed for at least 21 times in a cycle of Kapalbhati. Such three cycles may be performed in one sitting. When this much is achieved, then the repetitions within a cycle can be increased. Each one should increase the repetitions as per his individual capacity and strength.
+
+Between two cycles of Kapalbhati, gradual breathing should be continued. To further the study of Kapalbhati, either the repetitions of Pooraka and Rechaka within a cycle should be increased or keeping those repetitions constant, the number of cycles may be increased. All these things should be considered thoughtfully on the basis of experience of one's own and under guidance of expert.
