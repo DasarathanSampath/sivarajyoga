@@ -26,7 +26,7 @@
   transition: 0.3s;
   text-align center
   border-radius 10px
-  line-height 0.7   rem  
+  line-height 0.7rem  
 }
 
 .card:hover {
