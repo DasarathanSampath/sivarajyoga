@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sri Ramakrishna Yogashramam</title>
+        <link>https://sivarajyoga.com</link>
+        <description>Sri Ramakrishna Yogashramam</description>
+        <lastBuildDate>Mon, 12 Jul 2021 12:40:59 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://sivarajyoga.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallery]]></title>
+            <link>https://sivarajyoga.com/gallery/</link>
+            <guid>https://sivarajyoga.com/gallery/</guid>
+            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police Academy]]></title>
+            <link>https://sivarajyoga.com/gallery/police-academy/</link>
+            <guid>https://sivarajyoga.com/gallery/police-academy/</guid>
+            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PoorVeegam]]></title>
+            <link>https://sivarajyoga.com/gallery/poorveegam/</link>
+            <guid>https://sivarajyoga.com/gallery/poorveegam/</guid>
+            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meditation]]></title>
+            <link>https://sivarajyoga.com/meditation/</link>
+            <guid>https://sivarajyoga.com/meditation/</guid>
+            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naturopathy]]></title>
+            <link>https://sivarajyoga.com/naturopathy/</link>
+            <guid>https://sivarajyoga.com/naturopathy/</guid>
+            <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yoga]]></title>
+            <link>https://sivarajyoga.com/yoga/</link>
+            <guid>https://sivarajyoga.com/yoga/</guid>
+            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.]]></description>
+        </item>
+    </channel>
+</rss>

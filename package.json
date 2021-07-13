@@ -1,0 +1,23 @@
+{
+  "name": "sri-ramakrishna-yogashramam",
+  "version": "1.0.0",
+  "description": "Sri Ramakrishna Yogashramam",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "author": "Dasa",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.1"
+  },
+  "dependencies": {
+    "firebase": "^8.4.1",
+    "firebase-tools": "^9.10.0",
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-feed": "^0.1.9",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}

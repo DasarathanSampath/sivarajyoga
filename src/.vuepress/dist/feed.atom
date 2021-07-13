@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sivarajyoga.com</id>
+    <title>Sri Ramakrishna Yogashramam</title>
+    <updated>2021-07-12T12:40:59.191Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://sivarajyoga.com"/>
+    <link rel="self" href="https://sivarajyoga.com/feed.atom"/>
+    <subtitle>Sri Ramakrishna Yogashramam</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Gallery]]></title>
+        <id>https://sivarajyoga.com/gallery/</id>
+        <link href="https://sivarajyoga.com/gallery/">
+        </link>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police Academy]]></title>
+        <id>https://sivarajyoga.com/gallery/police-academy/</id>
+        <link href="https://sivarajyoga.com/gallery/police-academy/">
+        </link>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoorVeegam]]></title>
+        <id>https://sivarajyoga.com/gallery/poorveegam/</id>
+        <link href="https://sivarajyoga.com/gallery/poorveegam/">
+        </link>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meditation]]></title>
+        <id>https://sivarajyoga.com/meditation/</id>
+        <link href="https://sivarajyoga.com/meditation/">
+        </link>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naturopathy]]></title>
+        <id>https://sivarajyoga.com/naturopathy/</id>
+        <link href="https://sivarajyoga.com/naturopathy/">
+        </link>
+        <updated>2021-04-19T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yoga]]></title>
+        <id>https://sivarajyoga.com/yoga/</id>
+        <link href="https://sivarajyoga.com/yoga/">
+        </link>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.
+Website under construction and the contents will be added soon.]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,18 @@
+    {
+    "poorveegam": {
+        "title": "Poorveegam",
+        "location": "Pondichery",
+        "imageDescription": "Naturopathy session",
+        "date": "22-May-2021",
+        "path": "poorveegam",
+        "filenames2": [1,2,3,4,5,6,7,8]        
+    },
+    "police-academy": {
+        "title": "Police Academy",
+        "location": "Kanchipuram",
+        "imageDescription": "Yoga class",
+        "date": "22-May-2021",
+        "path": "police-academy",
+        "filenames2": [1,2,3,4,5,6]
+    }
+}

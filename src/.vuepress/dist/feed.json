@@ -1,0 +1,46 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sri Ramakrishna Yogashramam",
+    "home_page_url": "https://sivarajyoga.com",
+    "feed_url": "https://sivarajyoga.com/feed.json",
+    "description": "Sri Ramakrishna Yogashramam",
+    "items": [
+        {
+            "id": "https://sivarajyoga.com/gallery/",
+            "url": "https://sivarajyoga.com/gallery/",
+            "title": "Gallery",
+            "date_modified": "2021-07-10T00:00:00.000Z"
+        },
+        {
+            "id": "https://sivarajyoga.com/gallery/police-academy/",
+            "url": "https://sivarajyoga.com/gallery/police-academy/",
+            "title": "Police Academy",
+            "date_modified": "2021-07-10T00:00:00.000Z"
+        },
+        {
+            "id": "https://sivarajyoga.com/gallery/poorveegam/",
+            "url": "https://sivarajyoga.com/gallery/poorveegam/",
+            "title": "PoorVeegam",
+            "date_modified": "2021-07-10T00:00:00.000Z"
+        },
+        {
+            "id": "https://sivarajyoga.com/meditation/",
+            "url": "https://sivarajyoga.com/meditation/",
+            "title": "Meditation",
+            "date_modified": "2021-07-10T00:00:00.000Z"
+        },
+        {
+            "id": "https://sivarajyoga.com/naturopathy/",
+            "url": "https://sivarajyoga.com/naturopathy/",
+            "title": "Naturopathy",
+            "date_modified": "2021-04-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://sivarajyoga.com/yoga/",
+            "url": "https://sivarajyoga.com/yoga/",
+            "title": "Yoga",
+            "summary": "Website under construction and the contents will be added soon.\nWebsite under construction and the contents will be added soon.\nWebsite under construction and the contents will be added soon.\nWebsite under construction and the contents will be added soon.\nWebsite under construction and the contents will be added soon.",
+            "date_modified": "2021-07-10T00:00:00.000Z"
+        }
+    ]
+}

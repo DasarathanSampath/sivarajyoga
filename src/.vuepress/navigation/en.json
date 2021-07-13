@@ -1,0 +1,121 @@
+{
+    "list":{
+            "selectText": "Languages",
+            "label": "English",
+            "ariaLabel": "Languages",
+            "serviceWorker": {
+              "updatePopup": {
+                "message": "New content is available.",
+                "buttonText": "Refresh"
+              }
+            },
+            "algolia": {},
+            "repo": "",
+            "editLinks": false,
+            "docsDir": "",
+            "editLinkText": "",
+            "lastUpdated": false,
+            "location": "Kanchipuram",
+            "nav": [
+              {
+                "text": "Naturopathy",
+                "link": "/naturopathy/"
+              },
+              {
+                "text": "Varmam",
+                "link": "/varmam/"
+              },
+              {
+                "text": "Yoga",
+                "link": "/yoga/"
+              },
+              {
+                "text": "Meditation",
+                "link": "/meditation/"
+              },
+              {
+                "text": "Gallery",
+                "link": "/gallery/"
+              }
+            ],
+            "sidebar": {
+                "/naturopathy/": [
+                    {
+                        "title": "Naturopathy",
+                        "collapsable": false,
+                        "children": [
+                            ""
+                        ]
+                    }
+                ],
+                "/varmam/": [
+                    {
+                        "title": "Varmam",
+                        "collapsable": false,
+                        "children": [
+                            ""
+                        ]
+                    }
+                ],
+                "/yoga/": [
+                    {
+                        "title": "Yoga",
+                        "collapsable": false,
+                        "children": [
+                            ""
+                        ]
+                    }
+                ],
+                "/meditation/": [
+                    {
+                        "title": "Meditation",
+                        "collapsable": false,
+                        "children": [
+                            ""
+                        ]
+                    }
+                ],
+                "/gallery/": [
+                    {
+                        "title": "Gallery",
+                        "collapsable": false,
+                        "children": [
+                            "",
+                            "poorveegam",
+                            "police-academy"
+                        ]
+                    }
+                ]
+            },
+            "nameCards": {
+                "cardTitle": "Traditional Healer Siva Rajendran",
+                "qualification1": "M.Sc. Yoga", 
+                "qualification2": "Practicing from 2004",
+                "address1": "Sri Ramakrishna Yogashramam,",
+                "address2": "Registered No - 89/2010,",
+                "address3": "19.E, Singaperumal koil sannadhi street",
+                "address4": "Kanchipuram - 631 501",
+                "appointment": "Phone"
+            },
+            "foot": [
+            {
+              "text": "About",
+              "link": "/about/"
+            },
+            {
+              "text": "Contact",
+              "link": "/contact/"
+            },
+            {
+              "text": "Disclaimer",
+              "link": "/disclaimer/"
+            },
+            {
+              "text": "Privacy",
+              "link": "/privacy/"
+            }
+        ],
+        "footSlohan": "Yoga | Copyright © 2020 Sri Ramakrishna Yogashramam",
+        "read": "Read"
+        }
+}

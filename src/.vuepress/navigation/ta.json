@@ -1,0 +1,141 @@
+{
+    "list": {
+        "selectText": "மொழிகள்",
+        "label": "தமிழ்",
+        "serviceWorker": {
+          "updatePopup": {
+            "message": "புதிய உள்ளடக்கம் சேர்க்கப்பட்டுள்ளது.",
+            "buttonText": "புதுப்பிக்கவும்"
+          }
+        },
+        "algolia": {},
+        "repo": "",
+        "editLinks": false,
+        "docsDir": "",
+        "editLinkText": "",
+        "lastUpdated": false,
+        "location": "காஞ்சிபுரம்",
+        "nav": [
+          {
+                "text": "இயற்கை மருத்துவம்",
+                "link": "/ta/naturopathy/"
+              },
+              {
+                "text": "வர்மம்",
+                "link": "/ta/varmam/"
+              },
+              {
+                "text": "யோகா",
+                "link": "/ta/yoga/"
+              },
+              {
+                "text": "தியானம்",
+                "link": "/ta/meditation/"
+              },
+              {
+                "text": "காட்சிக் கூடம்",
+                "link": "/ta/gallery/"
+              }
+        ],
+        "sidebar": {
+            "/ta/naturopathy/": [
+                {
+                    "title": "இயற்கை மருத்துவம்",
+                    "collapsable": false,
+                    "children": [
+                        "",
+                        "mud-bath",
+                        "banana-leaf-bath",
+                        "herbal-steam-bath"
+                    ]
+                }
+            ],
+            "/ta/varmam/": [
+                {
+                    "title": "வர்மம்",
+                    "collapsable": false,
+                    "children": [
+                        ""
+                    ]
+                }
+            ],
+            "/ta/yoga/": [
+                {
+                    "title": "யோகா",
+                    "collapsable": false,
+                    "children": [
+                        "",
+                        "surya-namaskaram",
+                        "mudra-yoga",
+                        "abana-vayu-mudra",
+                        "agaya-mudra",
+                        "anjali-mudra",
+                        "bangala-mudra",
+                        "gubera-mudra",
+                        "nana-mudra",
+                        "prana-mudra",
+                        "prithivi-mudra",
+                        "sudthi-mudra",
+                        "surya-mudra",
+                        "varuna-mudra",
+                        "vayu-mudra",
+                        "kiriya",
+                        "pranayamam"
+                    ]
+                }
+            ],
+            "/ta/meditation/": [
+                {
+                    "title": "தியானம்",
+                    "collapsable": false,
+                    "children": [
+                        ""
+                    ]
+                }
+            ],
+            "/ta/gallery/": [
+                {
+                    "title": "காட்சிக் கூடம்",
+                    "collapsable": false,
+                    "children": [
+                        "",
+                        "poorveegam",
+                        "police-academy"
+                    ]
+                }
+            ]
+
+        },
+        "nameCards": {
+          "cardTitle": "பாரம்பரிய மரு. சிவ ராஜேந்திரன்",
+          "qualification1": "எம்.எஸ்சி. யோகா",
+          "qualification2": "2004 முதல் பயிற்சி செய்பவர்",
+          "address1": "ஸ்ரீ ராமகிருஷ்ணா யோகாஷரம்,",
+          "address2": "பதிவு எண் - 89/2010,",
+          "address3": "19.E, சிங்கபெருமல் கோயில் சன்னதி தெரு",
+          "address4": "காஞ்சிபுரம் - 631 501",
+          "appointment": "தொலைபேசி"
+        },
+        "foot": [
+            {
+              "text": "என்னை பற்றி",
+              "link": "/ta/about/"
+            },
+            
+            {
+              "text": "தொடர்புக்கு",
+              "link": "/ta/contact/"
+            },
+            {
+              "text": "பொறுப்பாகாமை",
+              "link": "/ta/disclaimer/"
+            },
+            {
+              "text": "தகவல் பாதுகாப்பு",
+              "link": "/ta/privacy/"
+            }
+        ],
+        "footSlohan": "யோகா | பதிப்புரிமை © 2019 ஸ்ரீ ராமகிருஷ்ணா யோகாஷரம்",
+        "read": "மேலும் படிக்க"
+    }
+}

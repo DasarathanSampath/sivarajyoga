@@ -1,0 +1,204 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+.myNameCard
+    box-shadow 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+    width 400px
+    max-height 120px
+    margin 0.1rem 0.5rem 0.5rem 0.5rem
+    // float left
+    position fixed
+    top 1px
+    left 1px
+    background-color #ffff
+    border-radius 0.5rem
+
+.myNamecardImg
+    text-align centre
+    width 100%
+
+.myTitle
+    color gray
+    text-align left
+
+.myDescription
+    text-align left
+
+.myName
+    font-weight 600
+    font-size 1.2rem
+
+.myRow:after
+  content ""
+  display table
+  clear both
+
+.myColumn 
+  float left
+  width 50%
+
+.myColumnNameCard1 
+  float left
+  width 35%
+
+.myColumnNameCard2
+  float left
+  width 65%
+
+.myChip {
+  // display: inline-block;
+  // float: left;
+  padding: 0 15px;
+  height: 60px;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  margin: 1rem 0 0 1rem;
+  position: fixed;
+  left 405px
+  top 1px
+}
+.myChip-foot{
+  padding: 0 15px;
+  height: 60px;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  margin: 1rem 0 0 1rem;  
+  left 405px
+  top 1px
+  display none
+}
+
+.myChipImg {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.myAddress {
+    margin: 1rem 0.5rem 0.5rem 1rem; 
+    // box-shadow 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+    width 400px
+    max-height 120px
+    // display inline-block
+    background-color #ffff
+    position fixed
+    right 0
+    top 0
+}
+.myAddress-foot {
+    margin: 1rem 0.5rem 0.5rem 1rem;     
+    width 400px
+    max-height 120px    
+    background-color #ffff    
+    right 0
+    top 0
+    display none
+}
+
+.myHead {
+  height: 125px;
+  width: 100%;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  position: fixed;
+  left 0px
+  top 0px
+  z-index 2
+}
+
+@media screen and (max-width 1035px) {
+    .myAddress {        
+        top 120px
+        left 1px
+    }
+    .myHead {
+        height: 225px;
+    }
+}
+
+@media screen and (max-width 625px) {
+    .myAddress {      
+        //top 195px
+        display none
+    }
+    .myNameCard {
+        width 97%
+        max-height 175px
+    }
+    .myChip {
+        left 1px
+        top 120px
+        margin 0 0 0 1rem
+        display none
+    }
+    .myHead {
+        //height: 325px;
+        max-height 120px;
+    }
+    .myChip-foot {
+        display block
+    }
+    .myAddress-foot {
+        display block
+    }
+}
+
+.card 
+  border none
+  display flex
+  padding 0.5em 0.8em 0 0  
+  margin-bottom 2rem
+    @media screen and (max-width 640px) {
+        .card{
+        display block   
+        }
+    }
+
+
+.card-img
+  float left
+  width 40%  
+  max-height 200px
+  border-radius 2%
+  border 1px solid #ccc
+  @media screen and (max-width 640px) {
+    .card-img {       
+      width 75%
+    }
+  }
+
+.card-txt
+  font 0.5em
+  padding-left 1em
+  
+.card-txt__dateTime
+  color gray
+  font-weight 300
+  font 0.3em
+
+.card-txt__title
+  font-size 1.2em
+  font-weight 400
+  padding 0
+  
+.card-txt__desc
+  font-weight 400
+  line-height 1.2em
+  text-align justify
+
+.card-txt__imgDesc
+  color gray
+
+.md-images
+  float left
+  margin 0.75rem 2rem 0 0
+  border-radius 5px

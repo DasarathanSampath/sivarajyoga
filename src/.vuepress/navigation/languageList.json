@@ -1,0 +1,18 @@
+{
+    "list":{
+        "/":{
+          "lang": "en-US",
+          "lncode": "en",
+          "lnname": "English",
+          "title": "Sri Ramakrishna Yogashramam",
+          "description": "Yoga master Siva Rajendran - Naturopathy, Hatha Yoga, Meditation"
+        },
+        "/ta/":{
+          "lang": "ta-IN",
+          "lncode": "ta",
+          "lnname": "தமிழ்",
+          "title": "ஸ்ரீ ராமகிருஷ்ணா யோகாஷரம்",
+          "description": "யோகா மாஸ்டர் சிவ ராஜேந்திரன் - இயற்கை மருத்துவம், ஹத யோகா, தியானம்"
+        }
+    }
+}
