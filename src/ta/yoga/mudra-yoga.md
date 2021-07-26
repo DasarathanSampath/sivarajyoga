@@ -6,7 +6,7 @@ desc: முத்திரா யோகம் பற்றிய விளக�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

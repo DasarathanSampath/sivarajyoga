@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sivarajyoga.com</id>
     <title>Sri Ramakrishna Yogashramam</title>
-    <updated>2021-07-12T12:40:59.191Z</updated>
+    <updated>2021-07-26T07:02:02.783Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://sivarajyoga.com"/>
     <link rel="self" href="https://sivarajyoga.com/feed.atom"/>
@@ -41,6 +41,7 @@
         <link href="https://sivarajyoga.com/naturopathy/">
         </link>
         <updated>2021-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our body comprises five elements (sky, air, fire, water, and earth). Along with this, the three guilts, vaadham (rheumatism), piththam(bile), and kabam(sputum) are also evolving with our bodies. Therefore, the natural treatment with the help of five elements given for the diseases caused by the above said guilts is called naturopathy.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yoga]]></title>
@@ -48,10 +49,5 @@
         <link href="https://sivarajyoga.com/yoga/">
         </link>
         <updated>2021-07-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Website under construction and the contents will be added soon.
-Website under construction and the contents will be added soon.
-Website under construction and the contents will be added soon.
-Website under construction and the contents will be added soon.
-Website under construction and the contents will be added soon.]]></summary>
     </entry>
 </feed>

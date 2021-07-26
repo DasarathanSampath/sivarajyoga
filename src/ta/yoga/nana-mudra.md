@@ -6,7 +6,7 @@ desc: ஞான முத்திரா பற்றிய விளக்க�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

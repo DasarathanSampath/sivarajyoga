@@ -6,7 +6,7 @@ desc: பிரித்திவி முத்திரா பற்றிய
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

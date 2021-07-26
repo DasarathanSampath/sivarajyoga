@@ -6,7 +6,7 @@ desc: வாயு முத்திரா பற்றிய விளக்�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

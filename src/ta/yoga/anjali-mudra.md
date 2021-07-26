@@ -6,7 +6,7 @@ desc: அஞ்சலி முத்திரா பற்றிய விள�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

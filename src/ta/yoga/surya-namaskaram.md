@@ -6,7 +6,7 @@ desc: சூரிய நமஸ்க்காரம் பற்றிய வ�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

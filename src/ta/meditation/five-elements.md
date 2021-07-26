@@ -6,7 +6,7 @@ desc: பஞ்ச பூதங்களும் அதன் தன்மை�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: meditation
 ---

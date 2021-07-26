@@ -6,7 +6,7 @@ desc: கிரியா பற்றிய விளக்கம் மற்�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

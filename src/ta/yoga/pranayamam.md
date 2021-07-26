@@ -6,7 +6,7 @@ desc: பிரணயம் (பிராணாயாமம்) பற்றி�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---

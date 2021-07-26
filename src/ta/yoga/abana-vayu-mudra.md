@@ -6,7 +6,7 @@ desc: அபான வாயு முத்திரா பற்றிய வ�
 imgDesc: ''
 articleLang: 'ta-IN'
 author: ''
-altLang: true
+altLang: false
 isHome: true
 topic: yoga
 ---
